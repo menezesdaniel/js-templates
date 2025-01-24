@@ -3,11 +3,11 @@ const obterAno = (anos, anoProcurado) =>
    
 
 
-// Exemplo de uso - n„o modifique
+// Exemplo de uso - n√£o modifique
 console.log(obterAno([2019, 2020, 2021], 2020)); // 2020
 console.log(obterAno([2019, 2020, 2021], 1990)); // undefined
 
-/* funÁ„o n„o reduzida: 
+/* fun√ß√£o n√£o reduzida: 
 
 function obterAno (anos, anoProcurado){
 	return anos.find(function(ano){

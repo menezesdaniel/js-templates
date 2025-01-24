@@ -1,11 +1,11 @@
-// TODO: criar a função obterTamanhoString()
+// TODO: criar a funï¿½ï¿½o obterTamanhoString()
 
 const obterTamanhoString = strings => 
   strings.map(string => string.length)
 
 
 
-// Exemplo de uso - não modifique
+// Exemplo de uso - nÃ£o modifique
 console.log(obterTamanhoString(["a", "abc"])); // [1, 3]
 console.log(obterTamanhoString(["Sam", "Alex", "Charlie"])); // [3, 4, 7]
-console.log(obterTamanhoString(["Olá", "Azul"])); // [5, 4]
+console.log(obterTamanhoString(["Olï¿½", "Azul"])); // [5, 4]
